@@ -139,7 +139,7 @@ Coffee-Shop-Sales-Dashboard/
 ## 👤 Author
 
 **Your Name**
-- LinkedIn: [Kirollos_Sameh](www.linkedin.com/in/kirollos-sameh-12babb356)
+- LinkedIn: [Kirollos_Sameh](https://www.linkedin.com/in/kirollos-sameh-12babb356/)
 - GitHub: [@Kirollos_Sameh096](https://github.com/KirollosSameh096-sys)
 - Email: kirosameh096@gmail.com
 
