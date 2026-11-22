@@ -139,8 +139,8 @@ Coffee-Shop-Sales-Dashboard/
 ## 👤 Author
 
 **Your Name**
-- LinkedIn: [www.linkedin.com/in/kirollos-sameh-12babb356](https://linkedin.com/in/your-profile)
-- GitHub: [@Kirollos_Sameh096](https://github.com/your-username)
+- LinkedIn: [Kirollos_Sameh](www.linkedin.com/in/kirollos-sameh-12babb356)
+- GitHub: [@Kirollos_Sameh096](https://github.com/KirollosSameh096-sys)
 - Email: kirosameh096@gmail.com
 
 ⭐ If you found this project useful, feel free to star the repository!
